@@ -1,5 +1,8 @@
 # Femboy Discord bot
-This project is a small AI companion bot created as a fun side project. I am not responsible for how this application or its features are used nor am I in any way affiliated with any types of femboys.
+I LOVE FEMOBYS
+This project is a small AI companion bot created as a fun side project. I am not responsible for how this application or its features are used. HOWEVER my dm's are open for any femboys, and i am also affiliated with the femboys working at Second Sun. 
+I LOVE FEMOBYS
+
 
 The program automatically fetches a reply from OpenAI's CHATGPT and sends that through to the user. It also uses CHATGPT to fetch a random status everytime it is restarted.
 
