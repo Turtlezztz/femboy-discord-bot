@@ -34,7 +34,7 @@ async function getChatResponse(input) {
         ];
 
     const response = await client.chat.completions.create({
-        model: 'gpt-4o-mini',
+        model: 'gpt-5-nano',
         messages: chatMessages,
     });
 
